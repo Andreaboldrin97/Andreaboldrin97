@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👋 Hi, I’m @Andrea Boldrin
+- 🌱 Attualmente sto imparando Java e Spring.
+- 👀 tra i miei interessi ci sono i Videogiochi, Serie TV e Sport
+- 📫 dove trovarmi:
 
-<!--
-**Andreaboldrin97/Andreaboldrin97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/andrea-boldrin/" /><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
 
-Here are some ideas to get you started:
+## :wrench: My Tools:
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,bootstrap,js,vue,mysql,php,laravel,java,spring)](https://skills.thijs.gg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :mag_right: My stats: 
+<p>
+   <img width="500" src="https://github-readme-stats.vercel.app/api?username=Andreaboldrin97&show_icons=true&theme=radical" alt="Andrea Boldrin's github stats image">
+</p>
+<br/>
+<p>
+   <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreaboldrin97&layout=compact&theme=radical" alt="Andrea Boldrin's languages stats image" />
+</p>
+
