@@ -8,12 +8,5 @@
 ## :wrench: My Tools:
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,bootstrap,js,vue,mysql,php,laravel,java,spring)](https://skills.thijs.gg)
 
-## :mag_right: My stats: 
-<p>
-   <img width="500" src="https://github-readme-stats.vercel.app/api?username=Andreaboldrin97&show_icons=true&theme=radical" alt="Andrea Boldrin's github stats image">
-</p>
-<br/>
-<p>
-   <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreaboldrin97&layout=compact&theme=radical" alt="Andrea Boldrin's languages stats image" />
-</p>
+
 
