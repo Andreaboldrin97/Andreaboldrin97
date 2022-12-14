@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Andrea Boldrin
+# 👋 Ciao, mi chiamo Andrea Boldrin
 - 🌱 Attualmente sto imparando Java e Spring.
 - 👀 tra i miei interessi ci sono i Videogiochi, Serie TV e Sport
 - 📫 dove trovarmi:
